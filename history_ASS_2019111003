@@ -1,0 +1,6 @@
+ls
+cd ..
+cd
+ls
+ps -al | grep tmkc
+ls
